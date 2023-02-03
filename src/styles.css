@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  color: red;
+}
+.container {
+  width: 200px;
+  height: 500px;
+}
+img {
+  width: 100%;
+}
+.card-container {
+  display: flex;
+}
