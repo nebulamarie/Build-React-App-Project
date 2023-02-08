@@ -7,7 +7,7 @@ export default function App() {
       <h1>Marie's Guide to Fruits & Veggies </h1>
       <div className="card-container">
         <Card
-          color="blue"
+          color="lavender"
           title="blueberries"
           image="https://media.istockphoto.com/id/505641702/photo/blueberries.jpg?b=1&s=170667a&w=0&k=20&c=DQtSkIvHJxOSpbO4Hz8EGbH5_p6TgBXAhZpEs9selZs="
         />
